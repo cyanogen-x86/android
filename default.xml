@@ -65,7 +65,7 @@
   <project name="platform/external/clearsilver" path="external/clearsilver" revision="658670c53a32eb1843efde585933da2e9cb5864e"/>
   <project name="platform/external/dbus" path="external/dbus" revision="cc48aecd7c137cbe864e190e5a9a79a4d9f52531"/>
   <project name="platform/external/dhcpcd" path="external/dhcpcd" revision="279fadf93958d420c67f791291a7c761977aff57"/>
-  <project name="platform/external/dosfstools" path="external/dosfstools" revision="7d2f159d0233adec849602851be72a1f46e9f338"/>
+  <project name="CodeLinaro-mirror/la_platform_external_dosfstools" path="external/dosfstools" revision="7d2f159d0233adec849602851be72a1f46e9f338" remote="github"/>
   <project name="platform/external/elfcopy" path="external/elfcopy" revision="1ecb303cba9bd746817c4add3173056fe728449b"/>
   <project name="platform/external/elfutils" path="external/elfutils" revision="5b7c883da6527a411236592dd450893260485621"/>
   <project name="platform/external/embunit" path="external/embunit" revision="efd32dc34decf2efc76487d55355486ec7bf4145"/>
