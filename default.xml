@@ -88,7 +88,7 @@
   <project name="platform/external/jpeg" path="external/jpeg" revision="04f4c51c1f00921d5e32c0bf31a3565916b70b07"/>
   <project name="platform/external/junit" path="external/junit" revision="64e19d62bacbd72563d350f1662090a88abcbdfb"/>
   <project name="platform/external/kernel-headers" path="external/kernel-headers" revision="95f683bbc4865c059d495aa12d23c52bd65340cb"/>
-  <project name="CodeLinaro-mirror/la_platform_external_lcc" path="external/lcc" revision="29f1f2c0587fec3463015dc9e43576277c79737e" remote="github"/>
+  <project name="CodeLinaro-mirror/la_platform_external_lcc" path="external/lcc" revision="refs/heads/caf_migration/aosp/eclair-release" remote="github"/>
   <project name="platform/external/libffi" path="external/libffi" revision="39f130fb905302abb9c4b7fd28029d0014582574"/>
   <project name="platform/external/libpcap" path="external/libpcap" revision="bb428e4ee6733294962c20774a7b69978d4ad866"/>
   <project name="platform/external/libpng" path="external/libpng" revision="70cd86d0097d1b99c8d9daf46890a686559225f6"/>
