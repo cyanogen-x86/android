@@ -75,10 +75,10 @@
   <project name="platform/external/fdlibm" path="external/fdlibm" revision="9c3119adb14168017aa579d69fbc4b40e451f162"/>
   <project name="platform/external/freetype" path="external/freetype" revision="070076603b2f7e260e2f198695432dbd9bcce5d9"/>
   <project name="platform/external/fsck_msdos" path="external/fsck_msdos" revision="9bde581d2efcef208037bd2c25be5fb36c7a2351"/>
-  <project name="platform/external/gdata" path="external/gdata" revision="610190cb17d2a52c68032a74910f22c81b97fa4e"/>
+  <project name="CodeLinaro-mirror/la_platform_external_gdata" path="external/gdata" revision="610190cb17d2a52c68032a74910f22c81b97fa4e" remote="github" />
   <project name="platform/external/genext2fs" path="external/genext2fs" revision="8d545bb209999f4a72642524b2ea8a5bbc204bbe"/>
   <project name="platform/external/giflib" path="external/giflib" revision="642347d37115df13a1a9aaa97cbb46c6c67e186e"/>
-  <project name="platform/external/googleclient" path="external/googleclient" revision="a6afa604103016dc879669cd41e4789928ed2c34"/>
+  <project name="CodeLinaro-mirror/la_platform_external_googleclient" path="external/googleclient" revision="a6afa604103016dc879669cd41e4789928ed2c34" remote="github"/>
   <project name="platform/external/grub" path="external/grub" revision="40ffa777eb6fa0e41733287138c72d08d11115f0"/>
   <project name="platform/external/gtest" path="external/gtest" revision="1ef854812c4f087d9a83f4c6262a206846ff3bfb"/>
   <project name="platform/external/icu4c" path="external/icu4c" revision="b6687b3c061a812fad2a9773ab8f3e957f480d3d"/>
@@ -88,12 +88,12 @@
   <project name="platform/external/jpeg" path="external/jpeg" revision="04f4c51c1f00921d5e32c0bf31a3565916b70b07"/>
   <project name="platform/external/junit" path="external/junit" revision="64e19d62bacbd72563d350f1662090a88abcbdfb"/>
   <project name="platform/external/kernel-headers" path="external/kernel-headers" revision="95f683bbc4865c059d495aa12d23c52bd65340cb"/>
-  <project name="platform/external/lcc" path="external/lcc" revision="29f1f2c0587fec3463015dc9e43576277c79737e"/>
+  <project name="CodeLinaro-mirror/la_platform_external_lcc" path="external/lcc" revision="29f1f2c0587fec3463015dc9e43576277c79737e" remote="github"/>
   <project name="platform/external/libffi" path="external/libffi" revision="39f130fb905302abb9c4b7fd28029d0014582574"/>
   <project name="platform/external/libpcap" path="external/libpcap" revision="bb428e4ee6733294962c20774a7b69978d4ad866"/>
   <project name="platform/external/libpng" path="external/libpng" revision="70cd86d0097d1b99c8d9daf46890a686559225f6"/>
   <project name="platform/external/libxml2" path="external/libxml2" revision="9215898d31a481aa04ac491b17438f366a6e8f52"/>
-  <project name="platform/external/mtpd" path="external/mtpd" revision="3058ac3b0c0eb02bdef3788d1fb51156d54379e4"/>
+  <project name="CodeLinaro-mirror/la_platform_external_mtpd" path="external/mtpd" revision="3058ac3b0c0eb02bdef3788d1fb51156d54379e4" remote="github"/>
   <project name="platform/external/netcat" path="external/netcat" revision="7a6d4b65f6588bc2b85fff73b67ad8a24d0d2533"/>
   <project name="platform/external/netperf" path="external/netperf" revision="44f46f35e54ddf6118522d3617a2ca740ee33738"/>
   <project name="platform/external/neven" path="external/neven" revision="dbf94ec67a1bd5ec9937962dbda1f735beffa248"/>
