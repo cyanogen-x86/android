@@ -52,7 +52,7 @@
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="2836cc573a12cbe12e7d2fce7468c1a83374e510"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="3131c1827e4f2485e7e9ede681adad920bf18b24"/>
   <project name="platform/cts" path="cts" revision="639b823b287211a67e525238c5f2f4e2a9ebc0c6"/>
-  <project name="platform/external/aes" path="external/aes" revision="ca002150e8d6b9188a889addb45ed9e4221b1b95"/>
+  <project name="CodeLinaro-mirror/la_platform_external_aes" path="external/aes" revision="ca002150e8d6b9188a889addb45ed9e4221b1b95" remote="github" />
   <project name="platform/external/apache-http" path="external/apache-http" revision="c5718a3d3d1786d57998315641361809d8f03e79"/>
   <project name="platform/external/astl" path="external/astl" revision="0b3736b39bf971e1c7357183cf35dd7640c24189"/>
   <project name="platform/external/bison" path="external/bison" revision="c3328876bcf6919b0484b3f38b10bcd5c81bb5df"/>
