@@ -113,7 +113,7 @@
   <project name="platform/external/tcpdump" path="external/tcpdump" revision="520d66ec4145f22ecfd34581ddd52578bd39a964"/>
   <project name="platform/external/tesseract" path="external/tesseract" revision="6bb0a29fa357671a105fe00a19fa8bc5c938a4e3"/>
   <project name="platform/external/tinyxml" path="external/tinyxml" revision="0cb428518679211b5656f039ab41b1ff0cb19a1b"/>
-  <project name="platform/external/tremor" path="external/tremor" revision="b7276179b11bbc4715822410780f0c65efe08a65"/>
+  <project name="CodeLinaro-mirror/la_platform_external_tremor" path="external/tremor" revision="b7276179b11bbc4715822410780f0c65efe08a65" remote="github"/>
   <project name="platform/external/wpa_supplicant" path="external/wpa_supplicant" revision="663c39d4fd672cd52ca852d0717bfec955ebfa98"/>
   <project name="platform/external/xdelta3" path="external/xdelta3" revision="53e276b0fa40d5ddba610576ac0f639a1c58fdbb"/>
   <project name="platform/external/xmlwriter" path="external/xmlwriter" revision="5bbcf18ea3e31cae5012ce26565daa0a21d89d95"/>
@@ -122,7 +122,7 @@
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="978acec22a223427d03ad094fb74eb4dc2a1f059"/>
   <project name="platform/frameworks/opt/emoji" path="frameworks/opt/emoji" revision="e7b5957d436f358a481a798ca3d5107dda27743d"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan" revision="dbbd8aed7ea208bda62db316dd31900b938fabfa"/>
-  <project name="platform/hardware/htc/dream" path="hardware/htc/dream" revision="55e02937c83755144e1141b2a57a81a0a8efea65"/>
+  <project name="CodeLinaro-mirror/la_platform_hardware_htc_dream" path="hardware/htc/dream" revision="55e02937c83755144e1141b2a57a81a0a8efea65" remote="github"/>
   <project name="platform/hardware/libhardware" path="hardware/libhardware" revision="be0a1d3b7677d08b928479cfa4fa16b734183ec9"/>
   <project name="platform/hardware/libhardware_legacy" path="hardware/libhardware_legacy" revision="8dd38d6bc8918f2153580111fbd8aef6b9f90cc4"/>
   <project name="platform/hardware/qcom/gps" path="hardware/qcom/gps" revision="701be40c7ebf287b5f24c1002d02b4dd57c9aa86"/>
