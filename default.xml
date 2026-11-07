@@ -169,13 +169,11 @@
   <project name="platform/sdk" path="sdk" revision="b7deec2514dfa9b0c8a67df340023f16c8ef0f7a"/>
   <project name="platform/system/bluetooth" path="system/bluetooth" revision="39760b2529e6ef58ab49762703b2ee37fdbd7db5"/>
   <project name="platform/system/wlan/ti" path="system/wlan/ti" revision="47d39e439b2caac66ca425b4eeeded8569e5ff4d"/>
-  <project name="platform/vendor/aosp" path="vendor/aosp" revision="c7bc76d2675f9c0c50dbb96a45442371e6dea2a7"/>
-  <project name="platform/vendor/htc/common-open" path="vendor/htc/common-open" revision="6bf6f286e4018c565883bba0371785335a9402dc"/>
-  <project name="platform/vendor/htc/dream-open" path="vendor/htc/dream-open" revision="c93da0e3a40353eac6a95a7d5c4c30d777eb5461"/>
-  <project name="platform/vendor/htc/prebuilt-open" path="vendor/htc/prebuilt-open" revision="b9689de1ea71d1c40f0b02e03b9fab6ed0aba68b"/>
-  <project name="platform/vendor/htc/sapphire-open" path="vendor/htc/sapphire-open" revision="390a0e81acb4178625e3a3da11ea80b3dcef75f1"/>
-  <project name="platform/vendor/pv-open" path="vendor/pv-open" revision="691e66242ba7084e5ddc01877e68b73c535186f5"/>
-  <project name="platform/vendor/qcom/android-open" path="vendor/qcom/android-open" revision="b4880b72293707875423385a33c4620c77105279"/>
-  <project name="platform/vendor/qcom/proprietary-open" path="vendor/qcom/proprietary-open" revision="09127148346eccfbcd432ed349b45963e0be7680"/>
-  <project name="platform/vendor/sample" path="vendor/sample" revision="1cd49f1559cf2c3b0cb1294b3787c5ddb3562c8d"/>
+  <project name="CodeLinaro-mirror/la_platform_vendor_aosp" path="vendor/aosp" revision="c7bc76d2675f9c0c50dbb96a45442371e6dea2a7" remote="github"/>
+  <project name="CodeLinaro-mirror/la_platform_vendor_htc_common-open" path="vendor/htc/common-open" revision="6bf6f286e4018c565883bba0371785335a9402dc" remote="github"/>
+  <project name="CodeLinaro-mirror/la_platform_vendor_htc_dream-open" path="vendor/htc/dream-open" revision="c93da0e3a40353eac6a95a7d5c4c30d777eb5461" remote="github"/>
+  <project name="CodeLinaro-mirror/la_platform_vendor_htc_prebuilt-open" path="vendor/htc/prebuilt-open" revision="b9689de1ea71d1c40f0b02e03b9fab6ed0aba68b" remote="github"/>
+  <project name="CodeLinaro-mirror/la_platform_vendor_htc_sapphire-open" path="vendor/htc/sapphire-open" revision="390a0e81acb4178625e3a3da11ea80b3dcef75f1" remote="github"/>
+  <project name="CodeLinaro-mirror/la_platform_vendor_pv-open" path="vendor/pv-open" revision="691e66242ba7084e5ddc01877e68b73c535186f5" remote="github"/>
+  <project name="CodeLinaro-mirror/la_platform_vendor_sample" path="vendor/sample" revision="1cd49f1559cf2c3b0cb1294b3787c5ddb3562c8d" remote="github"/>
 </manifest>
