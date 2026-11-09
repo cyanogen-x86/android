@@ -16,7 +16,7 @@
   <project name="CyanogenMod/android_external_dnsmasq" path="external/dnsmasq" remote="github" revision="6257052f1d76bbe587c68eda1cc3b2772d21eabe"/>
   <project name="CyanogenMod/android_external_dropbear" path="external/dropbear" remote="github" revision="40229d960d4809de5bdd9202f514b9a2acec21d0"/>
   <project name="CyanogenMod/android_external_e2fsprogs" path="external/e2fsprogs" remote="github" revision="aba1885650e3a323c0807b69f5f0175d56d4bdcd"/>
-  <project name="CyanogenMod/android_external_iptables" path="external/iptables" remote="github" revision="b62eccf5ead2a1ceb6eeb2029b665a7bb09e2ff3"/>
+  <project name="CyanogenMod/android_external_iptables" path="external/iptables" remote="github" revision="278d26e1424418cff04742f4c5a841da05a0ab08"/>
   <project name="CyanogenMod/android_external_opencore" path="external/opencore" remote="github" revision="737c25f7e275fc8b4f0270838aa00c84691af00f"/>
   <project name="CyanogenMod/android_external_openssl" path="external/openssl" remote="github" revision="0f976b8e330c20f8a07c301b1a2b31198ea71c28"/>
   <project name="CyanogenMod/android_external_skia" path="external/skia" remote="github" revision="5cee0b0a69f578ba4c1fe23cd80e3857f13cccd4"/>
@@ -25,7 +25,7 @@
   <project name="CyanogenMod/android_frameworks_policies_base" path="frameworks/policies/base" remote="github" revision="b45af378bbca0d44cdda5e28d0d5a7bc716f2bbe"/>
   <project name="CyanogenMod/android_hardware_msm7k" path="hardware/msm7k" remote="github" revision="670145ef692cec66a0611a1583c54255614b6c70"/>
   <project name="CyanogenMod/android_packages_apps_Browser" path="packages/apps/Browser" remote="github" revision="c3dce4e0f7a1c6d74108cbde05f95d58826908a2"/>
-  <project name="CyanogenMod/android_packages_apps_Camera" path="packages/apps/Camera" remote="github" revision="1007d5d9793c319ddec70b12204ebe2c9c9e6831"/>
+  <project name="CyanogenMod/android_packages_apps_Camera" path="packages/apps/Camera" remote="github" revision="338259f2740ec47ceb26ffa9d89341d1106e61b0"/>
   <project name="CyanogenMod/android_packages_apps_Contacts" path="packages/apps/Contacts" remote="github" revision="61b28e2dc78e38c1d37c41dc22e8a6e3c2f0f6d8"/>
   <project name="CyanogenMod/android_packages_apps_DeskClock" path="packages/apps/DeskClock" remote="github" revision="22653e839de886b8a9200701b17c206ef5768c88"/>
   <project name="CyanogenMod/android_packages_apps_Gallery3D" path="packages/apps/Gallery3D" remote="github" revision="97c28d28e7a0e6a80a1f3ca31b85a36ea69c2e1a"/>
@@ -92,7 +92,7 @@
   <project name="platform/external/libpcap" path="external/libpcap" revision="bb428e4ee6733294962c20774a7b69978d4ad866"/>
   <project name="platform/external/libpng" path="external/libpng" revision="70cd86d0097d1b99c8d9daf46890a686559225f6"/>
   <project name="platform/external/libxml2" path="external/libxml2" revision="9215898d31a481aa04ac491b17438f366a6e8f52"/>
-  <project name="CodeLinaro-mirror/la_platform_external_mtpd" path="external/mtpd" revision="3058ac3b0c0eb02bdef3788d1fb51156d54379e4" remote="github"/>
+  <project name="CodeLinaro-mirror/la_platform_external_mtpd" path="external/mtpd" revision="a37baf0a47b15211bd5c8e0acbd9a9f090587f82" remote="github"/>
   <project name="platform/external/netcat" path="external/netcat" revision="7a6d4b65f6588bc2b85fff73b67ad8a24d0d2533"/>
   <project name="platform/external/netperf" path="external/netperf" revision="44f46f35e54ddf6118522d3617a2ca740ee33738"/>
   <project name="platform/external/neven" path="external/neven" revision="dbf94ec67a1bd5ec9937962dbda1f735beffa248"/>
