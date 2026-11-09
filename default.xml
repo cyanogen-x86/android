@@ -159,9 +159,9 @@
   <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider" revision="cc28722dcdd721263ee558590eb0313770234392"/>
   <project name="platform/packages/providers/TelephonyProvider" path="packages/providers/TelephonyProvider" revision="46200b0ff3820983c84616c78c1378db9b7022a5"/>
   <project name="platform/packages/providers/UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" revision="63e547ef590180d4810d85179fd5d8704e9617c5"/>
-  <project name="platform/packages/providers/WebSearchProvider" path="packages/providers/WebSearchProvider" revision="ca69a58732b07df3e76c1252431efe6dd49f4a8b"/>
-  <project name="platform/packages/services/EasService" path="packages/services/EasService" revision="6d759acd225732c154c41d9a59ae2b5fe42be447"/>
-  <project name="platform/packages/services/LockAndWipe" path="packages/services/LockAndWipe" revision="f65ccaca60fc9c5aaa081b3d068187644b906976"/>
+  <project name="CodeLinaro-mirror/la_platform_packages_providers_WebSearchProvider" path="packages/providers/WebSearchProvider" revision="ca69a58732b07df3e76c1252431efe6dd49f4a8b" remote="github"/>
+  <project name="CodeLinaro-mirror/la_platform_packages_services_EasService" path="packages/services/EasService" revision="6d759acd225732c154c41d9a59ae2b5fe42be447" remote="github"/>
+  <project name="CodeLinaro-mirror/la_platform_packages_services_LockAndWipe" path="packages/services/LockAndWipe" revision="f65ccaca60fc9c5aaa081b3d068187644b906976" remote="github"/>
   <project name="platform/packages/wallpapers/LivePicker" path="packages/wallpapers/LivePicker" revision="e5a8ce6f767a05dae004b1aab912fa681aca685a"/>
   <project name="platform/packages/wallpapers/MagicSmoke" path="packages/wallpapers/MagicSmoke" revision="fcdc30736467201cc8b7b365a969f4db75c44637"/>
   <project name="platform/packages/wallpapers/MusicVisualization" path="packages/wallpapers/MusicVisualization" revision="828f0a830e62d982e7c1685d4d722ae1a962029f"/>
