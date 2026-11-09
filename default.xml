@@ -5,7 +5,7 @@
   
   <default remote="korg" revision="eclair"/>
   
-  <project name="CyanogenMod/android-external-openvpn" path="external/openvpn" remote="github" revision="0e4dce455574400c6dfe98282f41bb7725d22498"/>
+  <project name="CyanogenMod/android_external_openvpn" path="external/openvpn" remote="github" revision="0e4dce455574400c6dfe98282f41bb7725d22498"/>
   <project name="CyanogenMod/android_bionic" path="bionic" remote="github" revision="739c7e7f945327b7ec4b03c256b4c2bc9b570b8d"/>
   <project name="CyanogenMod/android_build" path="build" remote="github" revision="dd3a05c78c8c8c2db68146010135bfc0d5e1ec10">
     <copyfile dest="Makefile" src="core/root.mk"/>
