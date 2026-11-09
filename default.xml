@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="http://github.com/" name="github"/>
-  <remote fetch="http://android.googlesource.com/" name="korg" review="review.source.android.com"/>
+  <remote fetch="http://android.googlesource.com/" name="aosp" review="review.source.android.com"/>
   
   <default remote="korg" revision="eclair"/>
   
