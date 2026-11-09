@@ -135,16 +135,16 @@
   <project name="platform/packages/apps/CertInstaller" path="packages/apps/CertInstaller" revision="70fa371f561b8e838630ba3240ce01d8ed555aa7"/>
   <project name="platform/packages/apps/Email" path="packages/apps/Email" revision="26c95ddace076ead10d5c42986bcc70b465e9791"/>
   <project name="platform/packages/apps/Gallery" path="packages/apps/Gallery" revision="9a0e8c92702676d16ee36956886410c9b49e43be"/>
-  <project name="platform/packages/apps/GlobalSearch" path="packages/apps/GlobalSearch" revision="41e6215917506293bca67c2ebf72c9731684adbb"/>
-  <project name="platform/packages/apps/GoogleSearch" path="packages/apps/GoogleSearch" revision="7e04103bb9e1a6d886d04a148dfb8144b25569b2"/>
+  <project name="CodeLinaro-mirror/la_platform_packages_apps_GlobalSearch" path="packages/apps/GlobalSearch" revision="41e6215917506293bca67c2ebf72c9731684adbb" remote="github"/>
+  <project name="CodeLinaro-mirror/la_platform_packages_apps_GoogleSearch" path="packages/apps/GoogleSearch" revision="7e04103bb9e1a6d886d04a148dfb8144b25569b2" remote="github"/>
   <project name="platform/packages/apps/HTMLViewer" path="packages/apps/HTMLViewer" revision="5cc978566314b54a6964185faeca94c747b48f2f"/>
   <project name="platform/packages/apps/IM" path="packages/apps/IM" revision="f934e0dc443c844e96535b9fa8cb0bee63f4ca5d"/>
   <project name="platform/packages/apps/PackageInstaller" path="packages/apps/PackageInstaller" revision="f3c9fa501c53be2d903b9dc394955e4817e5397c"/>
   <project name="platform/packages/apps/Provision" path="packages/apps/Provision" revision="001eb417d9cc6abc7478fc3e0528b74f8289a758"/>
   <project name="platform/packages/apps/SoundRecorder" path="packages/apps/SoundRecorder" revision="27597fb8f979a41c7ff2bcd98eea4ba8cc4e6d26"/>
   <project name="platform/packages/apps/Stk" path="packages/apps/Stk" revision="d7e672adcc7ce45a7382f97b277c1c259489cd4c"/>
-  <project name="platform/packages/apps/Sync" path="packages/apps/Sync" revision="6834ac1920d0c3f074e302c1fc4311bfd6678ea5"/>
-  <project name="platform/packages/apps/Updater" path="packages/apps/Updater" revision="e9787cb38f07c7ef92e5db4c88860aad93e5b0bd"/>
+  <project name="CodeLinaro-mirror/la_platform_packages_apps_Sync" path="packages/apps/Sync" revision="6834ac1920d0c3f074e302c1fc4311bfd6678ea5" remote="github"/>
+  <project name="CodeLinaro-mirror/la_platform_packages_apps_Updater" path="packages/apps/Updater" revision="e9787cb38f07c7ef92e5db4c88860aad93e5b0bd" remote="github"/>
   <project name="platform/packages/apps/VoiceDialer" path="packages/apps/VoiceDialer" revision="574fba2dc93c556d3e13ce5e9e803683eae9a2ca"/>
   <project name="platform/packages/inputmethods/LatinIME" path="packages/inputmethods/LatinIME" revision="4c97c59e3855f7766c25476f75a3b5b05ce54a9f"/>
   <project name="platform/packages/inputmethods/OpenWnn" path="packages/inputmethods/OpenWnn" revision="26b4f9189c192ab62ddfa300b8c70fccd420d845"/>
@@ -155,7 +155,7 @@
   <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="5c26a1c0d38916c686329817a3d07a3d22f9ee10"/>
   <project name="platform/packages/providers/GoogleSubscribedFeedsProvider" path="packages/providers/GoogleSubscribedFeedsProvider" revision="2f78722801757f7e07d458c442ab8bd81663d922"/>
   <project name="platform/packages/providers/ImProvider" path="packages/providers/ImProvider" revision="e5fa7d50b5cf0490dd04c29ab57dbfca0fd34441"/>
-  <project name="platform/packages/providers/ManagementProvider" path="packages/providers/ManagementProvider" revision="323a0bbd793096bd789eb3087d8d6905f0191ede"/>
+  <project name="CodeLinaro-mirror/la_platform_packages_providers_ManagementProvider" path="packages/providers/ManagementProvider" revision="323a0bbd793096bd789eb3087d8d6905f0191ede" remote="github"/>
   <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider" revision="cc28722dcdd721263ee558590eb0313770234392"/>
   <project name="platform/packages/providers/TelephonyProvider" path="packages/providers/TelephonyProvider" revision="46200b0ff3820983c84616c78c1378db9b7022a5"/>
   <project name="platform/packages/providers/UserDictionaryProvider" path="packages/providers/UserDictionaryProvider" revision="63e547ef590180d4810d85179fd5d8704e9617c5"/>
