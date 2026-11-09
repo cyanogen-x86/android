@@ -3,7 +3,7 @@
   <remote fetch="http://github.com/" name="github"/>
   <remote fetch="http://android.googlesource.com/" name="aosp" review="review.source.android.com"/>
   
-  <default remote="korg" revision="eclair"/>
+  <default remote="aosp" revision="eclair"/>
   
   <project name="CyanogenMod/android_external_openvpn" path="external/openvpn" remote="github" revision="0e4dce455574400c6dfe98282f41bb7725d22498"/>
   <project name="CyanogenMod/android_bionic" path="bionic" remote="github" revision="739c7e7f945327b7ec4b03c256b4c2bc9b570b8d"/>
