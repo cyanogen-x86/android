@@ -153,8 +153,8 @@
   <project name="platform/packages/providers/ContactsProvider" path="packages/providers/ContactsProvider" revision="a72b39349e48c24aa312c6fa7f1721563733b35d"/>
   <project name="platform/packages/providers/DrmProvider" path="packages/providers/DrmProvider" revision="69bba056a17c07300585b16406651431bf086c9b"/>
   <project name="platform/packages/providers/GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" revision="5c26a1c0d38916c686329817a3d07a3d22f9ee10"/>
-  <project name="platform/packages/providers/GoogleSubscribedFeedsProvider" path="packages/providers/GoogleSubscribedFeedsProvider" revision="2f78722801757f7e07d458c442ab8bd81663d922"/>
-  <project name="platform/packages/providers/ImProvider" path="packages/providers/ImProvider" revision="e5fa7d50b5cf0490dd04c29ab57dbfca0fd34441"/>
+  <project name="CodeLinaro-mirror/la_platform_packages_providers_GoogleSubscribedFeedsProvider" path="packages/providers/GoogleSubscribedFeedsProvider" revision="2f78722801757f7e07d458c442ab8bd81663d922" remote="github"/>
+  <project name="CodeLinaro-mirror/la_platform_packages_providers_ImProvider" path="packages/providers/ImProvider" revision="e5fa7d50b5cf0490dd04c29ab57dbfca0fd34441" remote="github"/>
   <project name="CodeLinaro-mirror/la_platform_packages_providers_ManagementProvider" path="packages/providers/ManagementProvider" revision="323a0bbd793096bd789eb3087d8d6905f0191ede" remote="github"/>
   <project name="platform/packages/providers/MediaProvider" path="packages/providers/MediaProvider" revision="cc28722dcdd721263ee558590eb0313770234392"/>
   <project name="platform/packages/providers/TelephonyProvider" path="packages/providers/TelephonyProvider" revision="46200b0ff3820983c84616c78c1378db9b7022a5"/>
