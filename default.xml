@@ -47,7 +47,7 @@
   <project name="fries/android-external-liblzo" path="external/lzo" remote="github" revision="ca8a92853203ace0563b9b2701323920d01aceff"/>
   <project name="CyanogenMod/android_bootable_recovery" path="bootable/recovery" remote="github" revision="d3243fe047267c1852f9724ca7064fb493fbf6a0"/>
   <project name="CyanogenMod/android_external_yaffs2" path="external/yaffs2" remote="github" revision="f1178b056efca47cbad5a7528c594c18be7ea9b5"/>
-  <project name="CyanogenMod/android_vendor_motorola_sholes-open" path="vendor/motorola/sholes-open" remote="github" revision="1486e6324d880216dad17d1dd89928a572ade3ed"/>
+  <project name="cyanogen-x86/android_vendor_motorola_sholes-open" path="vendor/motorola/sholes-open" remote="github" revision="1486e6324d880216dad17d1dd89928a572ade3ed"/>
   <project name="kruton/android_external_flac" path="external/flac" remote="github" revision="3c276f4d58833251300b772c184b13c8c6f6a82c"/>
   <project name="platform/bootable/bootloader/legacy" path="bootable/bootloader/legacy" revision="2836cc573a12cbe12e7d2fce7468c1a83374e510"/>
   <project name="platform/bootable/diskinstaller" path="bootable/diskinstaller" revision="3131c1827e4f2485e7e9ede681adad920bf18b24"/>
